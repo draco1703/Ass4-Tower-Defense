@@ -1,4 +1,4 @@
 Gruppe:
-Tobias Leon Frehr
-Nicolai Bagge Johansen
-Nicolai Rosenvinge
+Tobias Leon Frehr  
+Nicolai Bagge Johansen  
+Nicolai Rosenvinge  
